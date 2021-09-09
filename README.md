@@ -6,7 +6,7 @@ I am a passionate mobile developer who fell into the development world at a very
 
 In parallel to my main activity I am freelance and I can help and accompany you during all phases of the development of your mobile applications (iOS and Android). 
 
-I am able to technically meet your expectations for the design of your applications, for their release on the application stores (App Store, Google Play) or for the continuous integration and deployment of them.
+I am able to technically meet your expectations for the design of your applications, for their release on the application stores (App Store, Google Play) or for the continuous integration and deployment of them.<br />
 
 ## How contact me?
 
