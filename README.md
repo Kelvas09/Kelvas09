@@ -43,7 +43,7 @@ I hope you like it: [blog.kelvas.fr](https://blog.kelvas.fr)
 
 # Open-source projects 📱
 
-Coming soon
+*Coming soon* 🚀
 
 <br />
 
