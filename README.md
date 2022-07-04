@@ -43,9 +43,8 @@ I hope you like it: [blog.kelvas.fr](https://blog.kelvas.fr)
 
 # Open-source projects 📱
 
-*Coming soon* 🚀
-
-<br />
+* [KVIndicatorView](https://github.com/Kelvas09/KVIndicatorView.iOS)
+* KVPermissionKit - *Coming soon* 🚀
 
 # Tools
 
